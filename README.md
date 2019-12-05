@@ -8,7 +8,7 @@ please download the app for your device type :
 - [Android minimum Lollipop or sdk 21](https://github.com/gondaimgano/simple_app/tree/master/TwiggleLatest/app-release.apk)
 - [iOS](https://github.com/gondaimgano/simple_app/tree/master/TwiggleLatest/Runner.ipa)
 
-<img src="homePage.png" width="200px" height="250px"/>
+<img src="homePage.png" width="200px" height="250px" style="object-fit:contain"/>
 
 ## If you want to do it on your own:
 
