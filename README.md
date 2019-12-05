@@ -4,7 +4,7 @@ For Demo purposes
 To download the app for :
 
 - [android](https://flutter.dev/docs)
-- [ios] (https://flutter.dev/docs)
+- [ios](https://flutter.dev/docs)
 
 ## If you want to do it on your own:
 
