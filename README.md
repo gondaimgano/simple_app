@@ -1,9 +1,11 @@
 # simple_app
 
 For Demo purposes
-To download the app for :
+please download the app for your device type :
 
-- [android](https://flutter.dev/docs)
+
+
+- [android minimum sdk is 21](https://flutter.dev/docs)
 - [ios](https://flutter.dev/docs)
 
 ## If you want to do it on your own:
