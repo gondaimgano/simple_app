@@ -5,7 +5,7 @@ please download the app for your device type :
 
 
 
-- [android minimum sdk is 21](https://flutter.dev/docs)
+- [Android minimum Lollipop or sdk 21](https://github.com/gondaimgano/simple_app/tree/master/TwiggleLatest/app-release.apk)
 - [iOS](https://github.com/gondaimgano/simple_app/tree/master/TwiggleLatest/Runner.ipa)
 
 ## If you want to do it on your own:
