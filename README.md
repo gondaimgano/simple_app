@@ -1,10 +1,10 @@
 # simple_app
 
 For Demo purposes
-To down the app for :
+To download the app for :
 
-- [android apk](https://flutter.dev/docs)
-- [ios ipa] (https://flutter.dev/docs)
+- [android](https://flutter.dev/docs)
+- [ios] (https://flutter.dev/docs)
 
 ## If you want to do it on your own:
 
